@@ -3,7 +3,7 @@
 # Projeto Orange / Regras de Associação para Foodmart
 
 ## Imagem do Projeto
-![Imagem](images/foodmart.png)
+![Imagem](images/foodmart.PNG)
 
 ## Arquivo do Projeto
 [Arquivo Orange](orange/foodmart.ows)
