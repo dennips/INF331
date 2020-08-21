@@ -38,3 +38,7 @@ Tela 5 - diagrama de blocos do aplicativo:
 Arquivo do projeto
 
 [Arquivo MIT App](app/market_place.aia)
+
+## Tarefa 4
+
+A tarefa 4 realizada em equipe está disponível em: [https://github.com/INF331-equipe4/Labs](https://github.com/INF331-equipe4/Labs)
