@@ -16,19 +16,25 @@
 ## Tarefa 3
 
 Tela 1 - nenhum produto selecionado:
+
 ![Tela Aplicativo](images/aplicativo1.png)
 
 Tela 2 - primeiro produto selecionado:
+
 ![Tela Aplicativo](images/aplicativo2.png)
 
 Tela 3 - segundo produto selecionado:
+
 ![Tela Aplicativo](images/aplicativo3.png)
 
 Tela 4 - compra de um dos produtos efetiva:
+
 ![Tela Aplicativo](images/aplicativo4.png)
 
 Tela 5 - diagrama de blocos do aplicativo:
+
 ![Tela Blocos](images/blocks.png)
 
 Arquivo do projeto
+
 [Arquivo MIT App](app/market_place.aia)
